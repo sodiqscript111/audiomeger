@@ -54,5 +54,5 @@ func main() {
 		return
 	}
 
-	fmt.Println("Merge complete: output.mp3")
+	fmt.Println("Merge complete: output.mp3  ")
 }
